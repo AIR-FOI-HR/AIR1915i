@@ -12,4 +12,5 @@
 ###< symfony/phpunit-bridge ###
 /backend/.env
 /backend/.env.test
-/.idea/.gitignore
+/.idea
+/backend/src/Migrations
