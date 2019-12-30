@@ -1,0 +1,15 @@
+###> symfony/framework-bundle ###
+/backend/config/secrets/prod/prod.decrypt.private.php
+/backend/public/bundles/
+/backend/var/
+/backend/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+/backend.phpunit
+/backend.phpunit.result.cache
+/backend/phpunit.xml
+###< symfony/phpunit-bridge ###
+/backend/.env
+/backend/.env.test
+/.idea/.gitignore
